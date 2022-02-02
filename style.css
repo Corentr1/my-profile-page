@@ -21,6 +21,12 @@ a:hover {
   color: #1c3144a6;
 }
 
+.container {
+  width: 800px;
+  margin: 0 auto;
+  padding: auto;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
